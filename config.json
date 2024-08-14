@@ -1,0 +1,9 @@
+{"DATABASE":
+    {"HOST":"postgre.adm.vvsu.ru",
+    "USERNAME":"practice_student",
+    "PASSWORD":"qwerty123",
+    "DB" : "Selfhosted1cService"},
+    "BOT_TOKEN":{
+        "KEY":"7051790832:AAF4IYmWQLL1UhGCYglXM3eAa3kW1Fw5o1E"
+    }
+}
